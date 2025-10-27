@@ -7,3 +7,4 @@
 # Step 2 : Execute the following command to detect from image: python gender_age.py -i 1.jpg  
 # Step 3 : Execute the following command to detect from webcam: python gender_age.py
 
+
